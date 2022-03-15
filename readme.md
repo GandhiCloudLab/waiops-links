@@ -1,17 +1,9 @@
 # IBM Cloud Pak for Watson AIOps Demo Assets Links
 
-This document contains links to the Watson AIOps demo assets prepared by various teams such as
+This document contains links to the Watson AIOps demo assets from
 
 - GSI Lab
 - Tech Zone
-
-
-AIOps Activation Kit:
-https://techzone.ibm.com/collection/watson-aiops-activation-kit
-Instana PoT:
-https://techzone.ibm.com/collection/Instana_PoT
-Turbonomic Demo environments:
-https://techzone.ibm.com/collection/turbonomic-application-resource-management-demo-assets
 
 ## Key Assets from Techzone
 
