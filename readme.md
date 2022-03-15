@@ -44,11 +44,11 @@ This document contains links to the Watson AIOps demo assets from
     </tr>
     <tr>
         <td>4</td>
-        <td>Proactive incident resolution video</td>
+        <td>Proactive incident resolution 300-level live demo</td>
         <td>
-[Link](https://ibm.ent.box.com/s/s6gj05hjc7h0zyvpykc32r71i3xr2ilb)</td>
+[Link](https://ibm-garage-tsa.github.io/platinum-demos/300-watson-aiops-proactive-incident-resolution/demo-preparation/)</td>
         <td>Watson AIOps </td>
-        <td>video</td>
+        <td>demo steps, video </td>
     </tr>
     <tr>
         <td>5</td>
