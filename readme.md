@@ -14,7 +14,7 @@ This document contains links to the Watson AIOps demo assets that was prepared b
     <tr>
         <td width="5%">S.No</td>
         <td width="40%">Title</td>
-        <td width="10%">Link</td>
+        <td width="15%">Link</td>
         <td width="20%">Product</td>
         <td width="20%">Tag</td>
     </tr>
@@ -122,7 +122,7 @@ This document contains links to the Watson AIOps demo assets that was prepared b
     <tr>
         <td width="5%">S.No</td>
         <td width="40%">Title</td>
-        <td width="10%">Link</td>
+        <td width="15%">Link</td>
         <td width="20%">Product</td>
         <td width="20%">Tag</td>
     </tr>
@@ -182,7 +182,7 @@ This document contains links to the Watson AIOps demo assets that was prepared b
     <tr>
         <td width="5%">S.No</td>
         <td width="40%">Title</td>
-        <td width="10%">Link</td>
+        <td width="15%">Link</td>
         <td width="20%">Product</td>
         <td width="20%">Tag</td>
     </tr>
