@@ -1,14 +1,79 @@
 # IBM Cloud Pak for Watson AIOps Demo Assets Links
 
-This document contains links to the Watson AIOps demo assets that was prepared by various teams such as
+This document contains links to the Watson AIOps demo assets prepared by various teams such as
 
 - GSI Lab
 - Tech Zone
 
+
+AIOps Activation Kit:
+https://techzone.ibm.com/collection/watson-aiops-activation-kit
+Instana PoT:
+https://techzone.ibm.com/collection/Instana_PoT
+Turbonomic Demo environments:
+https://techzone.ibm.com/collection/turbonomic-application-resource-management-demo-assets
+
+## Key Assets from Techzone
+
+<table>
+    <tr>
+        <td width="5%">S.No</td>
+        <td width="40%">Title</td>
+        <td width="15%">Link</td>
+        <td width="20%">Product</td>
+        <td width="20%">Tag</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>AIOps Activation Kit:</td>
+        <td>
+      
+[Link](https://techzone.ibm.com/collection/watson-aiops-activation-kit)</td>
+        <td>AIOps </td>
+        <td>Links </td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Instana PoT</td>
+        <td>
+      
+[Link](https://techzone.ibm.com/collection/Instana_PoT)</td>
+        <td>Watson AIOps </td>
+        <td>POT </td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Turbonomic Demo environments</td>
+        <td>
+      
+[Link](https://techzone.ibm.com/collection/turbonomic-application-resource-management-demo-assets)</td>
+        <td>Turbonomic </td>
+        <td>Env </td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Proactive incident resolution video</td>
+        <td>
+[Link](https://ibm.ent.box.com/s/s6gj05hjc7h0zyvpykc32r71i3xr2ilb)</td>
+        <td>Watson AIOps </td>
+        <td>video</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Demo Scripts by Nik</td>
+        <td>
+      
+[Link](https://techzone.ibm.com/collection/cp4waiopsdemo)</td>
+        <td>Watson AIOps </td>
+        <td>Scripts </td>
+    </tr>      
+</table>    
+
+
+
 ## Watson AIOps 3.2.0
 
 ### GSI Lab Assets
-
 
 <table>
     <tr>
@@ -60,10 +125,17 @@ This document contains links to the Watson AIOps demo assets that was prepared b
 
 <table>
     <tr>
+        <td width="5%">S.No</td>
+        <td width="40%">Title</td>
+        <td width="15%">Link</td>
+        <td width="20%">Product</td>
+        <td width="20%">Tag</td>
+    </tr>
+    <tr>
         <td>1</td>
         <td>Proactive incident resolution use case</td>
-        <td></td>
-        <td></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
     <tr>
         <td>1.1</td>
