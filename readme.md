@@ -1,5 +1,9 @@
-# IBM Cloud Pak for Watson AIOps Reference Links
+# IBM Cloud Pak for Watson AIOps Demo Assets Links
 
+This document contains links to the Watson AIOps demo assets that was prepared by various teams such as
+
+- GSI Lab
+- Tech Zone
 
 ## Watson AIOps 3.2.0
 
@@ -56,6 +60,11 @@ https://techzone.ibm.com/collection/watson-aiops-metrics-manager
 https://predictiveinsights136demo1.fyre.ibm.com:16311/ibm/console
 
 https://predictiveinsights136demo1.fyre.ibm.com:9998/predictiveinsights/jsp/wlp/wlpAnomalyView.jsp?[%E2%80%A6]endTime=1605963000000&faultTimes=1605876600000
+
+#### 3. Demo Scripts by Nik
+
+https://techzone.ibm.com/collection/cp4waiopsdemo
+
 
 ## Watson AIOps 3.1.0
 
